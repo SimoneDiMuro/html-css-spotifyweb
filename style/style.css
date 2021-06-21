@@ -1,0 +1,39 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.d-flex{
+    display: flex;
+}
+
+footer{
+    height: 100px;
+    background-color: #282828;
+}
+
+.wrapper{
+    height: calc(100vh - 100px);
+    background-color: blue;
+}
+
+nav{
+    width: 220px;
+    background-color: black;
+}
+
+main{
+    flex-grow: 1;
+    background-color: #141922;
+}
+
+header{
+    width: calc(100% - 220px);
+    height: 100px;
+    position: fixed;
+    top: 0;
+    right: 0;
+    background-color: rgba(0, 0, 0, 0.5) ;
+
+}
