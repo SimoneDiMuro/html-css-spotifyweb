@@ -5,6 +5,7 @@
 }
 body{
     font-family: 'Montserrat', sans-serif;
+    color: white;
 }
 
 .d-flex{
@@ -47,5 +48,20 @@ header{
      text-decoration: none;
      border: 2px solid white;
      margin-right: 20px;
-
  }
+
+ .logo{
+     margin: 20px;
+ }
+
+.h-30{
+    height: 30px;
+}
+
+.m-left-20{
+    margin-left: 20px;
+}
+
+.m-top-10{
+    margin-top: 10px;
+}
