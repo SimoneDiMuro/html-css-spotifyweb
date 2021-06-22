@@ -65,3 +65,30 @@ header{
 .m-top-10{
     margin-top: 10px;
 }
+
+.border{
+    border-left: 2px solid greenyellow;
+}
+
+.super{
+    vertical-align: super;
+}
+
+.text-center{
+    text-align: center;
+}
+
+.fa-plus{
+    margin-top: 10px;
+    margin-left: 20px;
+    font-size: 30px;
+    padding: 8px 10px;
+    background-color: grey;
+    color: black;
+}
+
+.none{
+    text-decoration: none;
+    color: grey;
+    margin-left: 20px;
+}
